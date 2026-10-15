@@ -1,0 +1,1062 @@
+# ─── Workday Companies to Monitor ───────────────────────────────────────────
+companies:
+  - name: "Equifax"
+    api_url: "https://equifax.wd5.myworkdayjobs.com/wday/cxs/equifax/External/jobs"
+    base_url: "https://equifax.wd5.myworkdayjobs.com/External/"
+
+  - name: "Visa"
+    api_url: "https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+    base_url: "https://visa.wd5.myworkdayjobs.com/Visa"
+
+  - name: "Mastercard"
+    api_url: "https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
+    base_url: "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers"
+
+  - name: "Salesforce"
+    api_url: "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+    base_url: "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
+
+  - name: "Workday"
+    api_url: "https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs"
+    base_url: "https://workday.wd5.myworkdayjobs.com/Workday"
+
+  - name: "Zebra"
+    api_url: "https://zebra.wd501.myworkdayjobs.com/wday/cxs/zebra/Zebra_careers/jobs"
+    base_url: "https://zebra.wd501.myworkdayjobs.com/en-GB/Zebra_careers"
+
+  - name: "Walmart"
+    api_url: "https://walmart.wd504.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs"
+    base_url: "https://walmart.wd504.myworkdayjobs.com/WalmartExternal"
+
+  - name: "Netflix"
+    api_url: "https://netflix.wd108.myworkdayjobs.com/wday/cxs/netflix/Netflix/jobs"
+    base_url: "https://netflix.wd108.myworkdayjobs.com/Netflix"
+  
+  - name: "Amadeus"
+    api_url: "https://amadeus.wd502.myworkdayjobs.com/wday/cxs/amadeus/jobs/jobs"
+    base_url: "https://amadeus.wd502.myworkdayjobs.com/jobs"  
+
+  - name: "Calyx"
+    api_url: "https://calyx.wd1.myworkdayjobs.com/wday/cxs/calyx/Perceptive/jobs"
+    base_url: "https://calyx.wd1.myworkdayjobs.com/Perceptive"  
+
+  - name: "Adobe"
+    api_url: "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"
+    base_url: "https://adobe.wd5.myworkdayjobs.com/external_experienced"
+
+  - name: "NVIDIA"
+    api_url: "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    base_url: "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"  
+
+  - name: "HP"
+    api_url: "https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/ExternalCareerSite/jobs"
+    base_url: "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite"
+
+  - name: "Thermo Fisher Scientific"
+    api_url: "https://thermofisher.wd5.myworkdayjobs.com/wday/cxs/thermofisher/ThermoFisherCareers/jobs"
+    base_url: "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers"  
+
+  - name: "Hewlett Packard Enterprise"
+    api_url: "https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/jobsathpe/jobs"
+    base_url: "https://hpe.wd5.myworkdayjobs.com/jobsathpe"
+
+  - name: "Huron"
+    api_url: "https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs"
+    base_url: "https://huron.wd1.myworkdayjobs.com/huroncareers"
+
+  - name: "Red Hat"
+    api_url: "https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/Jobs/jobs"
+    base_url: "https://redhat.wd5.myworkdayjobs.com/Jobs"
+
+  - name: "TaskUs"
+    api_url: "https://taskus.wd1.myworkdayjobs.com/wday/cxs/taskus/careers/jobs"
+    base_url: "https://taskus.wd1.myworkdayjobs.com/careers"
+
+  - name: "Vanguard"
+    api_url: "https://vanguard.wd5.myworkdayjobs.com/wday/cxs/vanguard/vanguard_external/jobs"
+    base_url: "https://vanguard.wd5.myworkdayjobs.com/vanguard_external"
+
+  - name: "CSG"
+    api_url: "https://csgi.wd5.myworkdayjobs.com/wday/cxs/csgi/CSGCareers/jobs"
+    base_url: "https://csgi.wd5.myworkdayjobs.com/CSGCareers"
+
+  - name: "Candescent"
+    api_url: "https://candescent.wd501.myworkdayjobs.com/wday/cxs/candescent/hiring/jobs"
+    base_url: "https://candescent.wd501.myworkdayjobs.com/hiring"
+  
+  - name: "Huron"
+    api_url: "https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs"
+    base_url: "https://huron.wd1.myworkdayjobs.com/huroncareers"
+
+  - name: "State Street"
+    api_url: "https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs"
+    base_url: "https://statestreet.wd1.myworkdayjobs.com/Global"
+
+  - name: "NatWest Group"
+    api_url: "https://rbs.wd3.myworkdayjobs.com/wday/cxs/rbs/RBS/jobs"
+    base_url: "https://rbs.wd3.myworkdayjobs.com/RBS"
+
+  - name: "Kyndryl"
+    api_url: "https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/KyndrylProfessionalCareers/jobs"
+    base_url: "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers"
+
+  - name: "Proofpoint"
+    api_url: "https://proofpoint.wd5.myworkdayjobs.com/wday/cxs/proofpoint/proofpointcareers/jobs"
+    base_url: "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers"
+
+  - name: "Commonwealth Bank"
+    api_url: "https://cba.wd3.myworkdayjobs.com/wday/cxs/cba/CommBank_Careers/jobs"
+    base_url: "https://cba.wd3.myworkdayjobs.com/CommBank_Careers"
+
+  - name: "RSM"
+    api_url: "https://rsm.wd1.myworkdayjobs.com/wday/cxs/rsm/RSMCareers/jobs"
+    base_url: "https://rsm.wd1.myworkdayjobs.com/RSMCareers"
+
+  - name: "Accenture"
+    api_url: "https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs"
+    base_url: "https://accenture.wd103.myworkdayjobs.com/AccentureCareers"
+  
+  - name: "Agilent"
+    api_url: "https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/Agilent_Careers/jobs"
+    base_url: "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers"
+
+  - name: "Airbus"
+    api_url: "https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/Airbus/jobs"
+    base_url: "https://ag.wd3.myworkdayjobs.com/Airbus"
+
+  - name: "Alcon"
+    api_url: "https://alcon.wd5.myworkdayjobs.com/wday/cxs/alcon/careers_alcon/jobs"
+    base_url: "https://alcon.wd5.myworkdayjobs.com/careers_alcon"
+
+  - name: "Alkami"
+    api_url: "https://alkami.wd12.myworkdayjobs.com/wday/cxs/alkami/Alkami/jobs"
+    base_url: "https://alkami.wd12.myworkdayjobs.com/Alkami"
+
+  - name: "Alteryx"
+    api_url: "https://alteryx.wd108.myworkdayjobs.com/wday/cxs/alteryx/AlteryxCareers/jobs"
+    base_url: "https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers"
+
+  - name: "Amgen"
+    api_url: "https://amgen.wd1.myworkdayjobs.com/wday/cxs/amgen/Careers/jobs"
+    base_url: "https://amgen.wd1.myworkdayjobs.com/Careers"
+
+  - name: "Analog Devices"
+    api_url: "https://analogdevices.wd1.myworkdayjobs.com/wday/cxs/analogdevices/External/jobs"
+    base_url: "https://analogdevices.wd1.myworkdayjobs.com/External"
+
+  - name: "Aptiv"
+    api_url: "https://aptiv.wd5.myworkdayjobs.com/wday/cxs/aptiv/APTIV_CAREERS/jobs"
+    base_url: "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS"
+
+  - name: "Autodesk"
+    api_url: "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs"
+    base_url: "https://autodesk.wd1.myworkdayjobs.com/Ext"
+
+  - name: "Aveva"
+    api_url: "https://aveva.wd3.myworkdayjobs.com/wday/cxs/aveva/AVEVA_careers/jobs"
+    base_url: "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers"
+
+  - name: "Barclays"
+    api_url: "https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs"
+    base_url: "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays"
+
+  - name: "Barry Wehmiller"
+    api_url: "https://barrywehmiller.wd1.myworkdayjobs.com/wday/cxs/barrywehmiller/BWCareers/jobs"
+    base_url: "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers"
+
+  - name: "Boeing"
+    api_url: "https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/External_Careers/jobs"
+    base_url: "https://boeing.wd1.myworkdayjobs.com/External_Careers"
+
+  - name: "Broadcom"
+    api_url: "https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs"
+    base_url: "https://broadcom.wd1.myworkdayjobs.com/External_Career"
+
+  - name: "Broadridge"
+    api_url: "https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs"
+    base_url: "https://broadridge.wd5.myworkdayjobs.com/Careers"
+
+  - name: "Cadence"
+    api_url: "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs"
+    base_url: "https://cadence.wd1.myworkdayjobs.com/External_Careers"
+
+  - name: "Ciena"
+    api_url: "https://ciena.wd5.myworkdayjobs.com/wday/cxs/ciena/Careers/jobs"
+    base_url: "https://ciena.wd5.myworkdayjobs.com/Careers"
+
+  - name: "Cisco"
+    api_url: "https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs"
+    base_url: "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers"
+
+  - name: "Clario"
+    api_url: "https://clarioclinical.wd1.myworkdayjobs.com/wday/cxs/clarioclinical/clarioclinical_careers/jobs"
+    base_url: "https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers"
+
+  - name: "Cloudera"
+    api_url: "https://cloudera.wd5.myworkdayjobs.com/wday/cxs/cloudera/External_Career/jobs"
+    base_url: "https://cloudera.wd5.myworkdayjobs.com/External_Career"
+
+  - name: "CME Group"
+    api_url: "https://cmegroup.wd1.myworkdayjobs.com/wday/cxs/cmegroup/cme_careers/jobs"
+    base_url: "https://cmegroup.wd1.myworkdayjobs.com/cme_careers"
+
+  - name: "Columbia Sportswear"
+    api_url: "https://columbiasportswearcompany.wd5.myworkdayjobs.com/wday/cxs/columbiasportswearcompany/Columbia_Career_Site/jobs"
+    base_url: "https://columbiasportswearcompany.wd5.myworkdayjobs.com/Columbia_Career_Site"
+
+  - name: "Credit Acceptance"
+    api_url: "https://creditacceptance.wd5.myworkdayjobs.com/wday/cxs/creditacceptance/credit_acceptance/jobs"
+    base_url: "https://creditacceptance.wd5.myworkdayjobs.com/credit_acceptance"
+
+  - name: "CrowdStrike"
+    api_url: "https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs"
+    base_url: "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers"
+
+  - name: "Curriculum Associates"
+    api_url: "https://curriculumassociates.wd5.myworkdayjobs.com/wday/cxs/curriculumassociates/External/jobs"
+    base_url: "https://curriculumassociates.wd5.myworkdayjobs.com/External"
+
+  - name: "Danaher"
+    api_url: "https://danaher.wd1.myworkdayjobs.com/wday/cxs/danaher/DanaherJobs/jobs"
+    base_url: "https://danaher.wd1.myworkdayjobs.com/DanaherJobs"
+
+  - name: "Deutsche Bank"
+    api_url: "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs"
+    base_url: "https://db.wd3.myworkdayjobs.com/DBWebsite"
+
+  - name: "Dentsu Aegis"
+    api_url: "https://dentsuaegis.wd3.myworkdayjobs.com/wday/cxs/dentsuaegis/DAN_GLOBAL/jobs"
+    base_url: "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL"
+
+  - name: "Domo"
+    api_url: "https://domo.wd12.myworkdayjobs.com/wday/cxs/domo/DomoCareers/jobs"
+    base_url: "https://domo.wd12.myworkdayjobs.com/DomoCareers"
+
+  - name: "Elevance Health"
+    api_url: "https://elevancehealth.wd1.myworkdayjobs.com/wday/cxs/elevancehealth/carelonglobal_in/jobs"
+    base_url: "https://elevancehealth.wd1.myworkdayjobs.com/carelonglobal_in"
+
+  - name: "ERM"
+    api_url: "https://erm.wd3.myworkdayjobs.com/wday/cxs/erm/ERM_Careers/jobs"
+    base_url: "https://erm.wd3.myworkdayjobs.com/ERM_Careers"
+
+  - name: "F5"
+    api_url: "https://ffive.wd5.myworkdayjobs.com/wday/cxs/ffive/f5jobs/jobs"
+    base_url: "https://ffive.wd5.myworkdayjobs.com/f5jobs"
+
+  - name: "FactSet"
+    api_url: "https://factset.wd108.myworkdayjobs.com/wday/cxs/factset/FactSetCareers/jobs"
+    base_url: "https://factset.wd108.myworkdayjobs.com/FactSetCareers"
+
+  - name: "Franklin Templeton"
+    api_url: "https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/primary-external-1/jobs"
+    base_url: "https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1"
+
+  - name: "Gainsight"
+    api_url: "https://gainsight.wd5.myworkdayjobs.com/wday/cxs/gainsight/Gainsight_External_Careers/jobs"
+    base_url: "https://gainsight.wd5.myworkdayjobs.com/Gainsight_External_Careers"
+
+  - name: "GEICO"
+    api_url: "https://geico.wd1.myworkdayjobs.com/wday/cxs/geico/External/jobs"
+    base_url: "https://geico.wd1.myworkdayjobs.com/External"
+
+  - name: "General Motors"
+    api_url: "https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    base_url: "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM"
+
+  - name: "Genesys"
+    api_url: "https://genesys.wd1.myworkdayjobs.com/wday/cxs/genesys/Genesys/jobs"
+    base_url: "https://genesys.wd1.myworkdayjobs.com/Genesys"
+
+  - name: "GlobalFoundries"
+    api_url: "https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs"
+    base_url: "https://globalfoundries.wd1.myworkdayjobs.com/External"
+
+  - name: "Guidehouse"
+    api_url: "https://guidehouse.wd1.myworkdayjobs.com/wday/cxs/guidehouse/External/jobs"
+    base_url: "https://guidehouse.wd1.myworkdayjobs.com/External"
+
+  - name: "Harris Computer"
+    api_url: "https://harriscomputer.wd3.myworkdayjobs.com/wday/cxs/harriscomputer/1/jobs"
+    base_url: "https://harriscomputer.wd3.myworkdayjobs.com/1"
+
+  - name: "Hitachi"
+    api_url: "https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/hitachi/jobs"
+    base_url: "https://hitachi.wd1.myworkdayjobs.com/hitachi"
+
+  - name: "Illumina"
+    api_url: "https://illumina.wd1.myworkdayjobs.com/wday/cxs/illumina/illumina-careers/jobs"
+    base_url: "https://illumina.wd1.myworkdayjobs.com/illumina-careers"
+
+  - name: "Intel"
+    api_url: "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+    base_url: "https://intel.wd1.myworkdayjobs.com/External"
+
+  - name: "ISS Governance"
+    api_url: "https://issgovernance.wd1.myworkdayjobs.com/wday/cxs/issgovernance/ISScareers/jobs"
+    base_url: "https://issgovernance.wd1.myworkdayjobs.com/ISScareers"
+
+  - name: "Itron"
+    api_url: "https://itron.wd5.myworkdayjobs.com/wday/cxs/itron/Itron/jobs"
+    base_url: "https://itron.wd5.myworkdayjobs.com/Itron"
+
+  - name: "KLA"
+    api_url: "https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs"
+    base_url: "https://kla.wd1.myworkdayjobs.com/Search"
+
+  - name: "LBG (Lloyds)"
+    api_url: "https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/Lloyds_Technology_Centre/jobs"
+    base_url: "https://lbg.wd3.myworkdayjobs.com/Lloyds_Technology_Centre"
+
+  - name: "LSEG"
+    api_url: "https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs"
+    base_url: "https://lseg.wd3.myworkdayjobs.com/Careers"
+
+  - name: "Lumeris"
+    api_url: "https://lumeris.wd1.myworkdayjobs.com/wday/cxs/lumeris/UR/jobs"
+    base_url: "https://lumeris.wd1.myworkdayjobs.com/UR"
+
+  - name: "Maersk"
+    api_url: "https://maersk.wd3.myworkdayjobs.com/wday/cxs/maersk/Maersk_Manual/jobs"
+    base_url: "https://maersk.wd3.myworkdayjobs.com/Maersk_Manual"
+
+  - name: "Magnitude Software"
+    api_url: "https://magnitudesoftware.wd1.myworkdayjobs.com/wday/cxs/magnitudesoftware/External/jobs"
+    base_url: "https://magnitudesoftware.wd1.myworkdayjobs.com/External"
+
+  - name: "Medtronic"
+    api_url: "https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
+    base_url: "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers"
+
+  - name: "Microchip"
+    api_url: "https://microchiphr.wd5.myworkdayjobs.com/wday/cxs/microchiphr/External/jobs"
+    base_url: "https://microchiphr.wd5.myworkdayjobs.com/External"
+
+  - name: "Micron"
+    api_url: "https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs"
+    base_url: "https://micron.wd1.myworkdayjobs.com/External"
+
+  - name: "MillerKnoll"
+    api_url: "https://millerknoll.wd1.myworkdayjobs.com/wday/cxs/millerknoll/MillerKnoll/jobs"
+    base_url: "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll"
+
+  - name: "Morningstar"
+    api_url: "https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morningstar/Americas/jobs"
+    base_url: "https://morningstar.wd5.myworkdayjobs.com/Americas"
+
+  - name: "Motorola Solutions"
+    api_url: "https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/Careers/jobs"
+    base_url: "https://motorolasolutions.wd5.myworkdayjobs.com/Careers"
+
+  - name: "MS (Morgan Stanley)"
+    api_url: "https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs"
+    base_url: "https://ms.wd5.myworkdayjobs.com/External"
+
+  - name: "Nasdaq"
+    api_url: "https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs"
+    base_url: "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site"
+
+  - name: "Nationwide"
+    api_url: "https://nationwide.wd1.myworkdayjobs.com/wday/cxs/nationwide/Nationwide_Career_India/jobs"
+    base_url: "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career_India"
+
+  - name: "Nike"
+    api_url: "https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jobs"
+    base_url: "https://nike.wd1.myworkdayjobs.com/nke"
+
+  - name: "NTST"
+    api_url: "https://ntst.wd1.myworkdayjobs.com/wday/cxs/ntst/Careers/jobs"
+    base_url: "https://ntst.wd1.myworkdayjobs.com/Careers"
+
+  - name: "NXP Semiconductors"
+    api_url: "https://nxp.wd3.myworkdayjobs.com/wday/cxs/nxp/careers/jobs"
+    base_url: "https://nxp.wd3.myworkdayjobs.com/careers"
+
+  - name: "Omnissa"
+    api_url: "https://omnissa.wd501.myworkdayjobs.com/wday/cxs/omnissa/Omnissa_External_Career_Site/jobs"
+    base_url: "https://omnissa.wd501.myworkdayjobs.com/Omnissa_External_Career_Site"
+
+  - name: "Philips"
+    api_url: "https://philips.wd3.myworkdayjobs.com/wday/cxs/philips/jobs-and-careers/jobs"
+    base_url: "https://philips.wd3.myworkdayjobs.com/jobs-and-careers"
+
+  - name: "Polaris"
+    api_url: "https://polaris.wd5.myworkdayjobs.com/wday/cxs/polaris/PolarisJobs/jobs"
+    base_url: "https://polaris.wd5.myworkdayjobs.com/PolarisJobs"
+
+  - name: "Qualcomm"
+    api_url: "https://qualcomm.wd12.myworkdayjobs.com/wday/cxs/qualcomm/External/jobs"
+    base_url: "https://qualcomm.wd12.myworkdayjobs.com/External"
+
+  - name: "R1 RCM"
+    api_url: "https://r1rcm.wd1.myworkdayjobs.com/wday/cxs/r1rcm/R1RCM/jobs"
+    base_url: "https://r1rcm.wd1.myworkdayjobs.com/R1RCM"
+
+  - name: "RELX"
+    api_url: "https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/ReedExhibitions/jobs"
+    base_url: "https://relx.wd3.myworkdayjobs.com/ReedExhibitions"
+
+  - name: "Rocket"
+    api_url: "https://rocket.wd5.myworkdayjobs.com/wday/cxs/rocket/rocket_careers/jobs"
+    base_url: "https://rocket.wd5.myworkdayjobs.com/rocket_careers"
+
+  - name: "Rockwell Automation"
+    api_url: "https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External_Rockwell_Automation/jobs"
+    base_url: "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation"
+
+  - name: "Sabre"
+    api_url: "https://sabre.wd1.myworkdayjobs.com/wday/cxs/sabre/SabreJobs/jobs"
+    base_url: "https://sabre.wd1.myworkdayjobs.com/SabreJobs"
+
+  - name: "SailPoint"
+    api_url: "https://sailpoint.wd1.myworkdayjobs.com/wday/cxs/sailpoint/SailPoint/jobs"
+    base_url: "https://sailpoint.wd1.myworkdayjobs.com/SailPoint"
+
+  - name: "Shell"
+    api_url: "https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs"
+    base_url: "https://shell.wd3.myworkdayjobs.com/ShellCareers"
+
+  - name: "Silicon Labs"
+    api_url: "https://silabs.wd1.myworkdayjobs.com/wday/cxs/silabs/SiliconLabsCareers/jobs"
+    base_url: "https://silabs.wd1.myworkdayjobs.com/SiliconLabsCareers"
+
+  - name: "SimCorp"
+    api_url: "https://simcorp.wd3.myworkdayjobs.com/wday/cxs/simcorp/SimCorp_Jobs/jobs"
+    base_url: "https://simcorp.wd3.myworkdayjobs.com/SimCorp_Jobs"
+
+  - name: "Sprinklr"
+    api_url: "https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs"
+    base_url: "https://sprinklr.wd1.myworkdayjobs.com/careers"
+
+  - name: "SS&C Technologies"
+    api_url: "https://ssctech.wd1.myworkdayjobs.com/wday/cxs/ssctech/SSCTechnologies/jobs"
+    base_url: "https://ssctech.wd1.myworkdayjobs.com/SSCTechnologies"
+
+  - name: "Stryker"
+    api_url: "https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    base_url: "https://stryker.wd1.myworkdayjobs.com/StrykerCareers"
+
+  - name: "Synechron"
+    api_url: "https://synechron.wd1.myworkdayjobs.com/wday/cxs/synechron/SynechronCareers/jobs"
+    base_url: "https://synechron.wd1.myworkdayjobs.com/SynechronCareers"
+
+  - name: "TBC"
+    api_url: "https://tbc.wd12.myworkdayjobs.com/wday/cxs/tbc/LyricCareers/jobs"
+    base_url: "https://tbc.wd12.myworkdayjobs.com/LyricCareers"
+
+  - name: "Thomson Reuters"
+    api_url: "https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/External_Career_Site/jobs"
+    base_url: "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site"
+
+  - name: "Trek Bikes"
+    api_url: "https://trekbikes.wd1.myworkdayjobs.com/wday/cxs/trekbikes/TREK/jobs"
+    base_url: "https://trekbikes.wd1.myworkdayjobs.com/TREK"
+
+  - name: "Trimble"
+    api_url: "https://trimble.wd1.myworkdayjobs.com/wday/cxs/trimble/TrimbleCareers/jobs"
+    base_url: "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers"
+
+  - name: "Uniphore"
+    api_url: "https://uniphore.wd503.myworkdayjobs.com/wday/cxs/uniphore/Uniphore/jobs"
+    base_url: "https://uniphore.wd503.myworkdayjobs.com/Uniphore"
+
+  - name: "Valeo"
+    api_url: "https://valeo.wd3.myworkdayjobs.com/wday/cxs/valeo/valeo_jobs/jobs"
+    base_url: "https://valeo.wd3.myworkdayjobs.com/valeo_jobs"
+
+  - name: "Veradigm"
+    api_url: "https://veradigm.wd12.myworkdayjobs.com/wday/cxs/veradigm/VR/jobs"
+    base_url: "https://veradigm.wd12.myworkdayjobs.com/VR"
+
+  - name: "Veralto"
+    api_url: "https://veralto.wd1.myworkdayjobs.com/wday/cxs/veralto/EskoJobs/jobs"
+    base_url: "https://veralto.wd1.myworkdayjobs.com/EskoJobs"
+
+  - name: "Wells Fargo"
+    api_url: "https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs"
+    base_url: "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs"
+
+  - name: "WEX"
+    api_url: "https://wexinc.wd5.myworkdayjobs.com/wday/cxs/wexinc/WEXInc/jobs"
+    base_url: "https://wexinc.wd5.myworkdayjobs.com/WEXInc"
+
+  - name: "WK (Wolters Kluwer)"
+    api_url: "https://wk.wd3.myworkdayjobs.com/wday/cxs/wk/External/jobs"
+    base_url: "https://wk.wd3.myworkdayjobs.com/External"
+
+  - name: "WRI India"
+    api_url: "https://wri.wd501.myworkdayjobs.com/wday/cxs/wri/WRI_India/jobs"
+    base_url: "https://wri.wd501.myworkdayjobs.com/WRI_India"
+
+  - name: "Yahoo"
+    api_url: "https://ouryahoo.wd5.myworkdayjobs.com/wday/cxs/ouryahoo/careers/jobs"
+    base_url: "https://ouryahoo.wd5.myworkdayjobs.com/careers"
+
+  - name: "ZEISS"
+    api_url: "https://zeissgroup.wd3.myworkdayjobs.com/wday/cxs/zeissgroup/External/jobs"
+    base_url: "https://zeissgroup.wd3.myworkdayjobs.com/External"
+
+  - name: "Zendesk"
+    api_url: "https://zendesk.wd1.myworkdayjobs.com/wday/cxs/zendesk/zendesk/jobs"
+    base_url: "https://zendesk.wd1.myworkdayjobs.com/zendesk"
+
+  - name: "Accelya"
+    api_url: "https://accelya.wd103.myworkdayjobs.com/wday/cxs/accelya/Careers/jobs"
+    base_url: "https://accelya.wd103.myworkdayjobs.com/Careers"
+
+  - name: "CIBC"
+    api_url: "https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/jobs"
+    base_url: "https://cibc.wd3.myworkdayjobs.com/search"
+
+  - name: "Expedia Group"
+    api_url: "https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
+    base_url: "https://expedia.wd108.myworkdayjobs.com/search"
+
+  - name: "Baker Hughes"
+    api_url: "https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs"
+    base_url: "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes"
+
+  - name: "Bose"
+    api_url: "https://boseallaboutme.wd503.myworkdayjobs.com/wday/cxs/boseallaboutme/Bose_Careers/jobs"
+    base_url: "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers"
+
+  - name: "Carrier"
+    api_url: "https://carrier.wd5.myworkdayjobs.com/wday/cxs/carrier/jobs/jobs"
+    base_url: "https://carrier.wd5.myworkdayjobs.com/jobs"
+
+  - name: "Chevron"
+    api_url: "https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/jobs/jobs"
+    base_url: "https://chevron.wd5.myworkdayjobs.com/jobs"
+
+  - name: "Johnson Controls"
+    api_url: "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/jobs"
+    base_url: "https://jci.wd5.myworkdayjobs.com/JCI"
+
+  - name: "Chubb Fire Security"
+    api_url: "https://chubbfiresecurity.wd3.myworkdayjobs.com/wday/cxs/chubbfiresecurity/chubbfs/jobs"
+    base_url: "https://chubbfiresecurity.wd3.myworkdayjobs.com/chubbfs"
+
+  - name: "Sundyne"
+    api_url: "https://sundyne.wd5.myworkdayjobs.com/wday/cxs/sundyne/SundyneCareersSite/jobs"
+    base_url: "https://sundyne.wd5.myworkdayjobs.com/SundyneCareersSite"
+
+  - name: "PTC"
+    api_url: "https://ptc.wd1.myworkdayjobs.com/wday/cxs/ptc/PTC/jobs"
+    base_url: "https://ptc.wd1.myworkdayjobs.com/PTC"
+
+  - name: "ReSource Pro"
+    api_url: "https://resourcepro.wd12.myworkdayjobs.com/wday/cxs/resourcepro/Career/jobs"
+    base_url: "https://resourcepro.wd12.myworkdayjobs.com/Career"
+  
+  - name: "Unisys"
+    api_url: "https://unisys.wd5.myworkdayjobs.com/wday/cxs/unisys/External/jobs"
+    base_url: "https://unisys.wd5.myworkdayjobs.com/External"
+
+  - name: "AVEVA"
+    api_url: "https://aveva.wd3.myworkdayjobs.com/wday/cxs/aveva/AVEVA_careers/jobs"
+    base_url: "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers"
+
+  - name: "Volaris Group"
+    api_url: "https://volarisgroup.wd3.myworkdayjobs.com/wday/cxs/volarisgroup/Incadea/jobs"
+    base_url: "https://volarisgroup.wd3.myworkdayjobs.com/Incadea"
+
+  - name: "Genpact"
+    api_url: "https://genpact.wd108.myworkdayjobs.com/wday/cxs/genpact/External_Careers/jobs"
+    base_url: "https://genpact.wd108.myworkdayjobs.com/External_Careers"
+
+  - name: "Genpact"
+    api_url: "https://genpact.wd108.myworkdayjobs.com/wday/cxs/genpact/External_Careers/jobs"
+    base_url: "https://genpact.wd108.myworkdayjobs.com/External_Careers"
+
+  - name: "Rakuten"
+    api_url: "https://rakuten.wd1.myworkdayjobs.com/wday/cxs/rakuten/RakutenSymphonyJapan/jobs"
+    base_url: "https://rakuten.wd1.myworkdayjobs.com/RakutenSymphonyJapan"
+
+  - name: "Diconium"
+    api_url: "https://diconium.wd3.myworkdayjobs.com/wday/cxs/diconium/Embitel_Technologies/jobs"
+    base_url: "https://diconium.wd3.myworkdayjobs.com/Embitel_Technologies"
+
+  - name: "Northern Trust"
+    api_url: "https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs"
+    base_url: "https://ntrs.wd1.myworkdayjobs.com/northerntrust"
+
+  - name: "Guidewire"
+    api_url: "https://guidewire.wd5.myworkdayjobs.com/wday/cxs/guidewire/external/jobs"
+    base_url: "https://guidewire.wd5.myworkdayjobs.com/external"
+
+  - name: "First Citizens Bank"
+    api_url: "https://svb.wd5.myworkdayjobs.com/wday/cxs/svb/firstcitizensindia/jobs"
+    base_url: "https://svb.wd5.myworkdayjobs.com/firstcitizensindia"
+
+  - name: "Zelis"
+    api_url: "https://zelis.wd1.myworkdayjobs.com/wday/cxs/zelis/ZelisCareers/jobs"
+    base_url: "https://zelis.wd1.myworkdayjobs.com/ZelisCareers"
+
+  - name: "ABC Financial Services"
+    api_url: "https://abcfinancial.wd5.myworkdayjobs.com/wday/cxs/abcfinancial/ABCFinancialServices/jobs"
+    base_url: "https://abcfinancial.wd5.myworkdayjobs.com/ABCFinancialServices"
+
+  - name: "SOTI"
+    api_url: "https://soti.wd3.myworkdayjobs.com/wday/cxs/soti/Careers/jobs"
+    base_url: "https://soti.wd3.myworkdayjobs.com/Careers"
+
+  - name: "Mavenir"
+    api_url: "https://mavenir.wd1.myworkdayjobs.com/wday/cxs/mavenir/mavenir_careers/jobs"
+    base_url: "https://mavenir.wd1.myworkdayjobs.com/mavenir_careers"
+
+  - name: "Clarivate"
+    api_url: "https://clarivate.wd3.myworkdayjobs.com/wday/cxs/clarivate/Clarivate_Careers/jobs"
+    base_url: "https://clarivate.wd3.myworkdayjobs.com/Clarivate_Careers"
+
+  - name: "Epicor"
+    api_url: "https://epicorsoftware.wd5.myworkdayjobs.com/wday/cxs/epicorsoftware/epicorjobs/jobs"
+    base_url: "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs"
+
+  - name: "Q2"
+    api_url: "https://q2ebanking.wd5.myworkdayjobs.com/wday/cxs/q2ebanking/Q2/jobs"
+    base_url: "https://q2ebanking.wd5.myworkdayjobs.com/Q2"
+
+  - name: "AspenTech"
+    api_url: "https://aspentech.wd5.myworkdayjobs.com/wday/cxs/aspentech/AspenTech/jobs"
+    base_url: "https://aspentech.wd5.myworkdayjobs.com/AspenTech"
+
+  - name: "Goodyear"
+    api_url: "https://goodyear.wd1.myworkdayjobs.com/wday/cxs/goodyear/GoodyearCareers/jobs"
+    base_url: "https://goodyear.wd1.myworkdayjobs.com/GoodyearCareers"
+
+  - name: "Availity"
+    api_url: "https://availity.wd1.myworkdayjobs.com/wday/cxs/availity/Availity_Careers_India/jobs"
+    base_url: "https://availity.wd1.myworkdayjobs.com/Availity_Careers_India"
+
+  - name: "Applied Materials"
+    api_url: "https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs"
+    base_url: "https://amat.wd1.myworkdayjobs.com/External"
+
+  - name: "Nordson"
+    api_url: "https://nordsonhcm.wd501.myworkdayjobs.com/wday/cxs/nordsonhcm/nordsoncareers/jobs"
+    base_url: "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers"
+
+  - name: "Qualys"
+    api_url: "https://qualys.wd5.myworkdayjobs.com/wday/cxs/qualys/careers/jobs"
+    base_url: "https://qualys.wd5.myworkdayjobs.com/careers"
+
+  - name: "FirstRand"
+    api_url: "https://firstrand.wd3.myworkdayjobs.com/wday/cxs/firstrand/frb/jobs"
+    base_url: "https://firstrand.wd3.myworkdayjobs.com/frb"
+
+  - name: "Blue Origin"
+    api_url: "https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/blueorigin/jobs"
+    base_url: "https://blueorigin.wd5.myworkdayjobs.com/blueorigin"
+
+  - name: "Elanco"
+    api_url: "https://elanco.wd5.myworkdayjobs.com/wday/cxs/elanco/External_Career/jobs"
+    base_url: "https://elanco.wd5.myworkdayjobs.com/External_Career"
+
+  - name: "Dow Jones"
+    api_url: "https://dowjones.wd1.myworkdayjobs.com/wday/cxs/dowjones/News_Corp_Careers/jobs"
+    base_url: "https://dowjones.wd1.myworkdayjobs.com/News_Corp_Careers"
+
+  - name: "GE Vernova"
+    api_url: "https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/Vernova_ExternalSite/jobs"
+    base_url: "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite"
+
+  - name: "Marmon"
+    api_url: "https://marmon.wd501.myworkdayjobs.com/wday/cxs/marmon/Marmon_Careers/jobs"
+    base_url: "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers"
+
+  - name: "Procore"
+    api_url: "https://procore.wd12.myworkdayjobs.com/wday/cxs/procore/Procore_External_Careers/jobs"
+    base_url: "https://procore.wd12.myworkdayjobs.com/Procore_External_Careers"
+
+  - name: "Target"
+    api_url: "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    base_url: "https://target.wd5.myworkdayjobs.com/targetcareers"
+
+  - name: "Novartis"
+    api_url: "https://novartis.wd3.myworkdayjobs.com/wday/cxs/novartis/Novartis_Careers/jobs"
+    base_url: "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers"
+
+  - name: "ABC Global"
+    api_url: "https://myhrabc.wd5.myworkdayjobs.com/wday/cxs/myhrabc/Global/jobs"
+    base_url: "https://myhrabc.wd5.myworkdayjobs.com/Global"
+
+  - name: "Citi"
+    api_url: "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs"
+    base_url: "https://citi.wd5.myworkdayjobs.com/2"
+
+  - name: "Astreya"
+    api_url: "https://astreya.wd5.myworkdayjobs.com/wday/cxs/astreya/life-at-astreya-opportunities/jobs"
+    base_url: "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities"
+
+  - name: "MRI Software"
+    api_url: "https://mrisoftware.wd501.myworkdayjobs.com/wday/cxs/mrisoftware/External_CareerSite/jobs"
+    base_url: "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite"
+
+  - name: "Cohesity"
+    api_url: "https://cohesity.wd5.myworkdayjobs.com/wday/cxs/cohesity/Cohesity_Careers/jobs"
+    base_url: "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers"
+
+  - name: "Pfizer"
+    api_url: "https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs"
+    base_url: "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers"
+
+  - name: "PwC"
+    api_url: "https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/Global_Experienced_Careers/jobs"
+    base_url: "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers"
+
+  - name: "Procter & Gamble"
+    api_url: "https://pg.wd5.myworkdayjobs.com/wday/cxs/pg/1000/jobs"
+    base_url: "https://pg.wd5.myworkdayjobs.com/1000"
+
+  - name: "RELX"
+    api_url: "https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/RiskSolutions/jobs"
+    base_url: "https://relx.wd3.myworkdayjobs.com/RiskSolutions"
+
+  - name: "3M"
+    api_url: "https://3m.wd1.myworkdayjobs.com/wday/cxs/3m/Search/jobs"
+    base_url: "https://3m.wd1.myworkdayjobs.com/Search"
+
+  - name: "Mondelēz International"
+    api_url: "https://mdlz.wd3.myworkdayjobs.com/wday/cxs/mdlz/External/jobs"
+    base_url: "https://mdlz.wd3.myworkdayjobs.com/External"
+
+  - name: "TD Bank"
+    api_url: "https://td.wd3.myworkdayjobs.com/wday/cxs/td/TD_Bank_Careers/jobs"
+    base_url: "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers"
+
+  - name: "CDW"
+    api_url: "https://cdw.wd5.myworkdayjobs.com/wday/cxs/cdw/Careers/jobs"
+    base_url: "https://cdw.wd5.myworkdayjobs.com/Careers"
+
+  - name: "KBR"
+    api_url: "https://kbr.wd5.myworkdayjobs.com/wday/cxs/kbr/KBR_Careers/jobs"
+    base_url: "https://kbr.wd5.myworkdayjobs.com/KBR_Careers"
+
+  - name: "Hillenbrand"
+    api_url: "https://hillenbrand.wd3.myworkdayjobs.com/wday/cxs/hillenbrand/Global/jobs"
+    base_url: "https://hillenbrand.wd3.myworkdayjobs.com/Global"
+
+  - name: "KONE"
+    api_url: "https://kone.wd3.myworkdayjobs.com/wday/cxs/kone/careers/jobs"
+    base_url: "https://kone.wd3.myworkdayjobs.com/careers"
+
+  - name: "SAMSUNG"
+    api_url: "https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    base_url: "https://sec.wd3.myworkdayjobs.com/Samsung_Careers"
+
+  - name: "SLB"
+    api_url: "https://championx.wd1.myworkdayjobs.com/wday/cxs/championx/ChampionX_External/jobs"
+    base_url: "https://championx.wd1.myworkdayjobs.com/en-US/ChampionX_External"  
+      
+  - name: "Disney"
+    api_url: "https://disney.wd5.myworkdayjobs.com/wday/cxs/disney/disneycareer/jobs"
+    base_url: "https://disney.wd5.myworkdayjobs.com/disneycareer"
+    
+  - name: "RollsRoyce"
+    api_url: "https://rollsroyce.wd3.myworkdayjobs.com/wday/cxs/rollsroyce/professional/jobs"
+    base_url: "https://rollsroyce.wd3.myworkdayjobs.com/en-US/professional?source=APPLICANT_SOURCE-3-1194"
+    
+  - name: "Equifax"
+    api_url: "https://equifax.wd5.myworkdayjobs.com/wday/cxs/equifax/External/jobs"
+    base_url: "https://equifax.wd5.myworkdayjobs.com/External/"
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+  # - name: ""
+  #   api_url: ""
+  #   base_url: ""
+    
+
+
+  # Add more companies as needed
+
+# ─── Smart Job Filters (used by AI) ────────────────────────────────────────
+filters:
+  # Experience levels – OR match (most important, 50% weight)
+  experience_levels:
+    - "Fresher"
+    - "Junior"
+    # - "Mid-level"
+    # - "Senior"
+
+  # Technology groups – must match at least one from each group (AND between groups)
+  technology_groups:
+    - ["C++", "C","Java"]          # group 1 – at least one
+    # - ["programming", "Spring"]             # group 2 – at least one
+
+  # Recency: AI will consider this, but it is NOT a hard filter
+  max_days_old: 5
+
+  # Minimum score (0–100) to be notified
+  min_confidence_score: 70
+
+# ─── Scraper Settings (hard‑coded pre‑filters) ────────────────────────────
+# ─── Scraper Settings ────────────────────────────────────────────────────────
+scraper:
+  jobs_per_page: 20
+  max_pages_per_company: 10
+  request_timeout_seconds: 30
+  delay_between_pages: 1
+  delay_between_companies: 0.2
+  enable_prefilter: true
+  # Pre-filters: job MUST contain these (INCLUDE) AND NOT contain these (EXCLUDE)
+  pre_filters:
+    # 1. Location filter (INCLUDE)
+    - field: location
+      operator: contains_any
+      values: ["India", "Remote", "Hybrid", "Onsite","Bengaluru", "Hyderabad", "Chennai", "Mumbai", "Delhi NCR", "Pune", "Kolkata", "Ahmedabad", "Kochi", "Thiruvananthapuram", "Coimbatore", "Indore", "Jaipur", "Bhubaneswar", "Warangal", "Nagpur", "Udaipur" , "Mysuru" , "IND" , "Karnataka"]
+    
+    # 2. Title filter - MUST contain these (INCLUDE)
+    - field: title
+      operator: contains_any
+      values: ["Software", "Java", "C++", "SDE", "SWE", "AMTS", "MTS"]
+    
+    # 3. Skip filter - MUST NOT contain these (EXCLUDE) - ALL SKIP WORDS HERE
+    - field: title
+      operator: contains_none
+      values:
+        # Seniority
+        - "Senior"
+        - "Sr"
+        - "Lead"
+        - "Manager"
+        - "Principal"
+        - "Staff"
+        - "Architect"
+        - "Director"
+        - "VP"
+        - "Head"
+        - "Chief"
+        - "Executive"
+        - "Fellow"
+        - "Distinguished"
+        - "President"
+        - "Chairman"
+        - "Board"
+        - "Trustee"
+        - "Partner"
+        - "Founder"
+        # Finance & Accounting
+        - "Accountant"
+        - "Accounting"
+        - "Auditor"
+        - "Tax"
+        - "Finance"
+        - "Financial"
+        # Legal & HR
+        - "Legal"
+        - "Counsel"
+        - "Attorney"
+        - "HR"
+        - "Human Resources"
+        - "Recruiting"
+        - "Recruitment"
+        - "Talent"
+        - "People"
+        # Business & Sales
+        - "Business"
+        - "Operations"
+        - "Strategy"
+        - "Marketing"
+        - "Sales"
+        - "Account Executive"
+        - "Customer Success"
+        # Support
+        - "Support"
+        - "Help Desk"
+        - "Technical Support"
+        - "Customer Service"
+        - "Client Services"
+        - "Account"
+        - "Office"
+        # IT & Infrastructure
+        - "IT"
+        - "Infrastructure"
+        - "Network"
+        - "Security"
+        - "Cyber"
+        - "Cybersecurity"
+        - "SysAdmin"
+        - "System Admin"
+        - "DBA"
+        - "Database"
+        - "Analytics"
+        - "Big Data"
+        - "Hadoop"
+        - "Spark"
+        - "Kafka"
+        - "Data Engineer"
+        - "ETL"
+        - "BI"
+        - "Business"
+        - "Intelligence"
+        - "Agentic"
+        # Non-dev roles
+        - "Analyst"
+        - "Consultant"
+        - "Specialist"
+        - "Advisor"
+        - "Coordinator"
+        - "Administrative"
+        - "Assistant"
+        - "Secretary"
+        - "Clerk"
+        - "Admin"
+        - "Reception"
+        - "Compliance"
+        - "Audit"
+        - "Risk"
+        # Tech to exclude
+        - "DevOps"
+        - "SRE"
+        - "Reliability"
+        - "Android"
+        - "iOS"
+        - "Mobile"
+        - "Frontend"
+        - "Front-end"
+        - "UX"
+        - "UI"
+        - "Designer"
+        - "QA"
+        - "Testing"
+        - "Test"
+        - "Embedded"
+        - "Firmware"
+        - "Hardware"
+        - "Data Scientist"
+        - "Machine Learning"
+        - "ML"
+        - "AI"
+        - "NLP"
+        - "Computer Vision"
+        - "Robotics"
+        # Salesforce senior
+        - "PMTS"
+        - "SMTS"
+        - "LMTS"
+        # Management & Leadership
+        - "Management"
+        - "Leadership"
+        - "Scrum"
+        - "Agile"
+        # Experience levels
+        - "Expert"
+        - "Experienced"
+        - "Professional"
+        - "SME"
+        # Roman numerals (skip from III) - NO SPACES (catch all variations)
+        - "III"
+        - "IV"
+        - "V"
+        - "VI"
+        - "VII"
+        - "VIII"
+        - "IX"
+        - "X"
+        - "XI"
+        - "XII"
+        - "XIII"
+        - "XIV"
+        - "XV"
+        # Numbers (skip from 3) - BEST approach
+        - "3"
+        - "4"
+        - "5"
+        - "6"
+        - "7"
+        # - " 8 "
+        # - " 9 "
+        # - " 10 "
+        # - " 11 "
+        # - " 12 "
+        # - " 13 "
+        # - " 14 "
+        # - " 15 "
+
+
+# ─── Scheduler Settings ──────────────────────────────────────────────────────
+scheduler:
+  interval_minutes: 30
+  run_on_startup: true
+  max_instances: 1
+
+# ─── Notifications ───────────────────────────────────────────────────────────
+notifications:
+  telegram:
+    enabled: true
+  email:
+    enabled: false
+    smtp_server: "smtp.gmail.com"
+    smtp_port: 587
+    sender_email: "vinayborate2003@gmail.com"
+    recipient_email: "vinayborate11@gmail.com"
+
+# ─── AI Settings ─────────────────────────────────────────────────────────────
+ai:
+  enabled: false                    # Set to true to use AI, false to skip AI
+  model: "gemma3:4b"
+  base_url: "http://localhost:11434"
+  timeout_seconds: 400
+
+# ─── Logging ─────────────────────────────────────────────────────────────────
+logging:
+  level: "INFO"
+  log_to_file: true
+  log_file: "logs/notifier.log"
+  rotate_size: "10 MB"
+  keep_days: 7
